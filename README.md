@@ -38,7 +38,7 @@ I’m a **Machine Learning Engineer**/**Data Scientist**. Currently pursuing my 
 - 🎓 **Master's Student** in Computer Engineering (ML Concentration) at Northeastern University. <!--, with a GPA of **4.00**.-->
 - 👨‍💻 Previously worked as a **Data Scientist** at **Kemper Insurance**, where I improved ML model accuracy and engineered data pipelines that drove significant improvements in customer targeting and product adoption.
 - 🤖 Former **Machine Learning Engineer** at **Accenture**, applying ML models to solve real-world problems in energy forecasting, route optimization, and operational efficiency.
-- 🔍 I have strong skills in **machine learning**, **deep learning**, **data engineering**, **data visualization**, and **MLOps**, using tools like **Python, TensorFlow, PyTorch**, and cloud services like **AWS, Azure**, and **GCP**.
+- 🔍 I have strong skills in **machine learning**, **deep learning**, **generative AI**, **LLM fine-tuning**, **retrieval-augmented generation (RAG)**, **data engineering**, **data visualization**, and **MLOps**, using tools like **Python, TensorFlow, PyTorch**, and cloud services like **AWS, Azure**, and **GCP**.
   
 ## 🔧 Technologies & Skills
 
