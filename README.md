@@ -61,13 +61,12 @@ Used **PySpark** to develop a distributed ML pipeline, reducing training time fo
 
 ### 🖼️ [Generating Captions for Images](https://github.com/hrs19/Image2Text-CaptionGen/)
 Developed an image captioning model using an encoder-decoder architecture with **ResNet50** and **LSTM**. Achieved significant accuracy improvement using attention mechanisms.
-
+<--
 ## 📊 Experience Highlights
 
 - **Data Scientist at Kemper Insurance**: Improved an XGBoost ML model’s accuracy from **62% to 91%** and built daily ETL processes for millions of records, enhancing customer journey analysis and driving sales efficiency.
 - **Machine Learning Developer at Accenture**: Developed ML models for **energy forecasting** and **employee transportation routing**, leading to major operational savings and increased green power usage from **78% to 95%**.
-
+-->
 ## 📫 Connect With Me!
 
 - **LinkedIn**: [linkedin.com/in/harshitsampgaon](https://www.linkedin.com/in/harshitsampgaon/)
-- **GitHub**: [github.com/hrs19](https://github.com/hrs19)
