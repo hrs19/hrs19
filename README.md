@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Harshit!
 <!--
 
-![Profile Picture](https://drive.google.com/u/0/drive-viewer/AKGpihbPi-0h0EMk_DO9rmeJWfTYc7ssleOOFu6gstMhchHnCvT4G-YZyl81hasP96luLkFrST8xtNLlBKNdXXArK7TjZKluSJ4z=s1600-rw-v1)
+![Profile Picture](https://media.licdn.com/dms/image/v2/D4E35AQHfHnPpQgkaPQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1731110929112?e=1734390000&v=beta&t=V5XvMHd7i1H1A92ruWMtpH_i7Gumy-yEPbgCzLlNg4A)
 
 I’m a **Machine Learning Engineer**/**Data Scientist**. Currently pursuing my Master’s in **Computer Engineering with a Machine Learning concentration** from Northeastern University, soon to graduate in December 2024, I am passionate about solving challenging problems and building impactful ML applications.
 -->
