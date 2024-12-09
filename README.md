@@ -23,7 +23,7 @@ I’m a **Machine Learning Engineer**/**Data Scientist**. Currently pursuing my 
 <table>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/v2/D4E03AQFFfvFz_4Sxjg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727628230145?e=1733356800&v=beta&t=pm8CXSiIT34c9v94YYJcbYkk3A-jBSlj_nbsVapJhHM" alt="Profile Picture" width="500">
+      <img src="assets/photo.JPEG" alt="Profile Picture" width="500">
     </td>
     <td>
       <p>
